@@ -1,0 +1,16 @@
+O que você sabe fazer do que está sendo apresentado?
+A implementação das movimentações do cursor: 'Backspace', 'Delete', 'Right', 'Left' e 'Enter'
+
+Como foi feita a atividade?
+Fiz com auxilio David Yvnis e do Ronier Lima
+
+O que você aprendeu e ainda tem dificuldade?
+Aprendi a implementar metodos como os citados acima, porem tive uma imensa dificuldade
+no ctrl z e ctrl r para tanto relacionar as teclas como as ações que os mesmos faziam
+
+
+Quanto tempo gasto na atividade?
+foi cerca de 6h intercaladas.
+
+Informações:
+Programado em C++, usando o IDE Qt Creator.
